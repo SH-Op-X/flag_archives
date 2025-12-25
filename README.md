@@ -1,2 +1,2 @@
 # flag_archives
-capture flags with friend!
+Capture flags! Improve myself!
